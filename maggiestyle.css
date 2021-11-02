@@ -1,0 +1,12 @@
+p{
+    width: 50%;
+    text-align: justify;
+    display: flex;
+}
+.maggie-1{
+    float: left;
+}
+.maggie-2{
+    float: right;
+    
+}
